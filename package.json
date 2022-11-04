@@ -23,6 +23,10 @@
 			"url": "https://github.com/Dionysusnu"
 		}
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/droblox/lightning-beams"
+	},
 	"author": "SamyBlue",
 	"license": "MIT",
 	"devDependencies": {
